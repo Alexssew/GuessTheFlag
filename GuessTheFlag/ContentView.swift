@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  GuessTheFlag
 //
-//  Created by AlexS on 07/03/2022.
-//
+//  Created by AlexSsew on 07/03/2022.
+
 
 import SwiftUI
 
@@ -117,7 +117,7 @@ struct ContentView: View {
                 
             }))
         }
-     
+        
         
     }
     
@@ -143,7 +143,7 @@ struct ContentView: View {
         } else {
             resultMessage2 = "Your Final Score Out Of 10 is: \(score)".uppercased()
         }
-    
+        
     }
     
     
